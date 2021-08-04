@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T07:44:55.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.166 Safari/537.36" etag="PeSpcwlXejuUsypJ_Gue" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T07:53:53.803Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.166 Safari/537.36" etag="ZtmUFcWEX67no7N89pqU" version="14.9.0" type="github">
   <diagram id="XpAkDSy-cgubEZI9c9kA" name="Page-1">
     <mxGraphModel dx="700" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="XqaKWmABZChdpuiZj2js-51" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XqaKWmABZChdpuiZj2js-25" target="XqaKWmABZChdpuiZj2js-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XqaKWmABZChdpuiZj2js-52" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="290" height="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
