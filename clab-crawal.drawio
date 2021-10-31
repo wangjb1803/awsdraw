@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T03:48:14.036Z" agent="5.0 (Windows)" etag="qFxky70oZHiwPT711Vew" version="15.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T03:54:32.937Z" agent="5.0 (Windows)" etag="TRd1qsp0SsaU4mS76j0y" version="15.6.1" type="github">
   <diagram id="Yk6t9v-q_GspNquAsi5I" name="Page-1">
     <mxGraphModel dx="942" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,6 +93,12 @@
         </mxCell>
         <mxCell id="EoJ3y0hwIgOVWHxbTN7e-10" value="EFS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="488.75" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoJ3y0hwIgOVWHxbTN7e-13" value="Auto Scaling group" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.groupCenter;grIcon=mxgraph.aws4.group_auto_scaling_group;grStroke=1;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=center;fontColor=#D86613;dashed=1;spacingTop=25;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EoJ3y0hwIgOVWHxbTN7e-15" value="DX" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="251.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
