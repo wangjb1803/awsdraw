@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T04:18:08.096Z" agent="5.0 (Windows)" etag="EuwjfgDuOqhAoPYwIMr7" version="15.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-31T12:56:21.075Z" agent="5.0 (Windows)" etag="w6MwF8ZsdjaCIKbO9_z0" version="15.6.1" type="github" pages="2">
   <diagram id="Yk6t9v-q_GspNquAsi5I" name="autoscaling">
     <mxGraphModel dx="942" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="600" y="225.45" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="537Jsp8l8VRUOBUdNGrK-15" value="IDC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="633.91" y="50" width="40" height="20" as="geometry" />
+          <mxGeometry x="700" y="50" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JGFHLuElw2-2O4ALlyM0-1" value="Public subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#248814;fillColor=#E9F3E6;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="180" width="160" height="90" as="geometry" />
