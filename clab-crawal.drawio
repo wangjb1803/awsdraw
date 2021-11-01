@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T08:53:25.371Z" agent="5.0 (Windows)" etag="yh3X5YkyBkJvxsaiG0j2" version="15.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-01T08:54:56.160Z" agent="5.0 (Windows)" etag="G91AtC_rwnlP6IIZ3Ej1" version="15.6.1" type="github" pages="2">
   <diagram id="IxkI_rFSqNzdkLSwgqRe" name="one server">
     <mxGraphModel dx="942" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="40" width="540" height="560" as="geometry" />
         </mxCell>
         <mxCell id="0DSQ_IcOaB-lquGiLrmg-1" value="VPC-2&lt;br&gt;10.20.40.0/21" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="E14DsLH6RbFtZpXnWQbK-1">
-          <mxGeometry x="60" y="79.5" width="500" height="440.5" as="geometry" />
+          <mxGeometry x="60" y="79.5" width="500" height="360.5" as="geometry" />
         </mxCell>
         <mxCell id="0DSQ_IcOaB-lquGiLrmg-2" value="AZ2" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;" vertex="1" parent="E14DsLH6RbFtZpXnWQbK-1">
           <mxGeometry x="340" y="150" width="200" height="270" as="geometry" />
